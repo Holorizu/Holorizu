@@ -1,5 +1,6 @@
 - Greetings, I’m @Holorizu
-- Currently at CIT Kokrajhar
+- Currently at Kokrajhar
 - Doing my degree 3rd Semester of Btech in Computer science and Engineering
+- Interested in Game development and Web Development
 - looking forward to all the New things i will learn here and feel free to correct any mistakes i make in my projects
 - My email(in case you want to contact me): bmarcus7906@gmail.com
